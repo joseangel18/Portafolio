@@ -1,0 +1,258 @@
+body {
+
+    background-color:#283747;
+}
+
+.container{
+
+    background-color: #283747;
+    top: 100px;
+}
+
+nav {
+
+    background-color:darkslategray;
+    padding-top: 15px;
+    text-align: center;
+    border-radius: 15px;
+    display: relative;
+    box-shadow: -7px 3px 5px 4px;
+    margin: 7px;
+}
+
+label {
+
+    padding-right: 40px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    text-shadow: chartreuse 1px 0 10px;
+}
+
+#perfil{
+    margin: 10px;
+    border-radius: 150px;
+    border: 5px solid;
+    display: block;
+    box-shadow: -4px 0px 5px 4px;
+}
+
+.col{
+    display: inline;
+    margin: 10px;
+    padding-left: 50px;
+}
+
+#lafoto{
+    display:  block;
+    background-color: blue;
+}
+
+p{
+    margin: 19px;
+    display: inline-block;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    
+}
+
+#mifoto{
+
+    background-color: #283747;
+    width: 375px;
+    height: 400px;
+    padding-left: 115px;
+    position: absolute;
+    display: block;
+}
+
+#amarillo{
+
+    background-color: #283747;
+    display: inline-block;
+    padding-left: 350px;
+    padding-right: 80px;
+    padding-top: 25px;
+    height: 400px;
+}
+
+#parrafo1{
+
+    padding-left: 30px;
+    padding-top: 80px;
+}
+
+#contenido{
+
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+#contacto{
+
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    text-shadow: chartreuse 1px 0 8px;
+    line-height: 1.7;
+}
+
+#escolar{
+
+    background-color: darkslategray;   
+    text-align: center;
+    border: 5px;
+    border-radius: 15px;
+    text-shadow: chartreuse 1px 0 10px;
+    box-shadow: -7px 3px 5px 4px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    font-size: 20px;
+    
+}
+
+#escuelas{
+
+    padding-left: 40px;
+}
+
+#uabcs{
+
+    width: 340px;
+    height: 150px;
+    background-color: #283747;
+    display: inline-block;
+    position: relative;
+    top: 23px;
+    border : 3px solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: chartreuse 1px 0 10px;
+}
+
+#uabcs:hover{
+
+    transform: scale(1.1);
+    box-shadow: 5px 5px 6px 2px;
+}
+
+#freecodecamp{
+
+    width: 340px;
+    height: 150px;
+    background-color: #283747;
+    display: inline-block;
+    position: relative;
+    border : 3px solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: chartreuse 1px 0 10px;
+}
+
+#freecodecamp:hover{
+
+    transform: scale(1.1);
+    box-shadow: 5px 5px 6px 2px;
+}
+
+#platzi{
+
+    width: 340px;
+    height: 150px;
+    background-color: #283747;
+    display: inline-block;
+    position: relative;
+    bottom: 24px;
+    border : 3px solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: chartreuse 1px 0 10px;
+}
+
+#platzi:hover{
+
+    transform: scale(1.1);
+    box-shadow: 5px 5px 6px 2px;
+}
+
+#laboral {
+
+    text-align: center;
+    background-color: darkslategray;
+    border-radius: 15px;
+    border: 5px;
+    text-shadow: chartreuse 1px 0 10px;
+    box-shadow: -7px 3px 5px 4px;
+    font-size: 20px;
+}
+
+#trabajo{
+
+    padding-left: 100px;
+    text-align: justify;
+    background-color: #283747;
+    display: inline-block;
+    width: 500px;
+    height: 150px;
+    position: relative;
+    padding-left: 30px;
+    left: 160px;
+    border : 3px solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+    top: 25px;
+    box-shadow: blueviolet 1px 0 10px;
+    
+}
+
+#trabajo:hover{
+
+    box-shadow: 5px 5px 6px 2px;
+    translate: 10px, 1px, 20px;
+}
+
+#puesto {
+
+    text-align: justify;
+    background-color: #283747;
+    display: inline-block;
+    width: 500px;
+    height: 150px;
+    position: relative;
+    left: 160px;
+    bottom: 24px;
+    border : 3px solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+    text-align: justify;
+    top: 1px;
+    box-shadow: blueviolet 1px 0 10px;
+}
+
+#puesto:hover{
+
+    box-shadow: 5px 5px 6px 2px;
+}
+
+footer{
+
+    background-color: dimgray;
+    height: 200px;
+    margin-top: 20px;
+}
+
+#github{
+
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
